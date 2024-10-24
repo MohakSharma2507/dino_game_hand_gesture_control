@@ -1,7 +1,8 @@
-Dino Game Hand Gesture Control
+**Dino Game Hand Gesture Control**
+
 This project implements a hand gesture-controlled version of the popular Chrome Dino game using computer vision. The hand tracking is achieved through OpenCV, MediaPipe, and CVZone libraries, allowing users to control the Dino's movements (like jumping) with simple hand gestures.
 
-Project Features:
+**Project Features:**
 
 Hand Tracking: Uses MediaPipe and CVZone to detect and track hand movements in real-time via webcam.
 Gesture Recognition: Identifies hand gestures such as pinching or the distance between fingers to simulate keypresses for game control.
@@ -25,7 +26,8 @@ OpenCV
 MediaPipe
 CVZone
 PyAutoGUI
-Future Enhancements:
+
+**Future Enhancements:**
 
 Add more gestures for crouching or increasing speed.
 Improve gesture sensitivity and robustness in various lighting conditions.
